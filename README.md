@@ -1,29 +1,8 @@
-# vue-timeline
+# Vue Timeline
 
-## Project setup
-```
-npm install
-```
+A simple vertical timeline component for Vue, to show logs and for other uses.
 
-### Compiles and hot-reloads for development
+## Installation
 ```
-npm run serve
+npm install @gabrielchl/vue-timeline
 ```
-
-### Compiles and minifies for production
-```
-npm run build
-```
-
-### Run your unit tests
-```
-npm run test:unit
-```
-
-### Lints and fixes files
-```
-npm run lint
-```
-
-### Customize configuration
-See [Configuration Reference](https://cli.vuejs.org/config/).
